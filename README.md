@@ -1,7 +1,7 @@
 # Franco_UC_AP_2020
 Trabajo Final de Grado de Jesus Franco. Universidad Católica - Sede Alto Paraná - 2020 </br>
 
-<b>Tema: Detección de carriles para la navegación de un vehículo Autonómo utilizando Visión Computacional</b></br>
+<b>Detección de carriles para la navegación de un vehículo Autonómo utilizando Visión Computacional</b></br>
 
 <b>Resumen</b></br>
 La detección del carril es un problema desafiante y juega un papel fundamental tanto en los vehículos autónomos como en los sistemas avanzados de asistencia a la conducción (ADAS).</br>
